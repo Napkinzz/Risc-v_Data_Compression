@@ -1,2 +1,2 @@
-# Risc-v_Data_Compression
-Data compression in risc-v 
+# Lab_DataCompression_Base
+Template repo with Code folder for Lab_DataCompression assignment.
